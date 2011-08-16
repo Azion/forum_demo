@@ -1,6 +1,6 @@
 set :application, "forum_demo"
 set :domain, "forum_demo_dev"
-set :repository, "git@github.com:azion/forum_demo.git"
+set :repository, "git@github.com:Azion/forum_demo.git"
 set :deploy_to, "/home/apps/forum_demo"
 
 role :app, domain
